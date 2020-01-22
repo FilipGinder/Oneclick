@@ -1,0 +1,65 @@
+.drzac_profila{
+  display: inline-block;
+  height:800px;
+  width:100%;
+  border-radius: 10px;
+  margin: 5px;
+}
+.div_slika{
+  height:600px;
+  width:100%;
+  border:1px solid black;
+  border-radius: 10px;
+}
+.div_manji_opis{
+  float: left;
+  height:200px;
+  width:40%;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.div_veci_opis{
+  float: left;
+  height:200px;
+  width:40%;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.div_cena{
+  float: left;
+  height:200px;
+  width:20%;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+#komentar{
+  resize: none;
+}
+.komentari{
+  height:80px;
+  width:100%;
+  background-color: yellow;
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 5px;
+}
+#naslov{
+  display: inline-block;
+}
+#nazad{
+  display: inline-block;
+}
+#div_sa_komentarima{
+  border-radius: 10px;
+  border: 1px solid black;
+}
+#posalji_komentar_dugme{
+  position: relative;
+  bottom: 10px;
+}
+#slika_profilna_velika{
+  border-radius: 10px;
+}

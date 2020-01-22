@@ -1,0 +1,54 @@
+#naslov_admin{
+  color:red;
+  display: inline-block;
+}
+#dodaj_novi_profil{
+  display: inline-block;
+}
+.drzac_profila_admin{
+  float: left;
+  height:300px;
+  width:280px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 5px;
+  color: white;
+}
+.div_slika_admin{
+  height:200px;
+  width:280px;
+}
+.same_slike{
+  height:200px;
+  width:280px;
+}
+#slika{
+  display: inline-block;
+  border-radius: 10px;
+}
+.div_manji_opis_admin{
+  float: left;
+  height:100px;
+  width:200px;
+  text-align: center;
+  background-color: green;
+  border-radius: 10px;
+  overflow: auto;
+}
+.div_cena_admin{
+  float: left;
+  height:100px;
+  width:77px;
+  text-align: center;
+  background-color: purple;
+  border-radius: 10px;
+}
+#dodaj_novi_profil{
+  display: inline-block;
+}
+#prikazi_profil{
+  position: relative;
+  left: 0px;
+  bottom: 40px;
+  border-radius: 10px;
+}
